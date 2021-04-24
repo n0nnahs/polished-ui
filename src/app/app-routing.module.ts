@@ -8,7 +8,7 @@ const routes: Routes = [
   { path: 'randomizer', component: RandomizerComponent },
   { path: 'dashboard', component: DashboardComponent },
   { path: 'list', component: PolishListComponent },
-  { path: '**', component: DashboardComponent },
+  { path: '', component: DashboardComponent },
 ];
 
 @NgModule({

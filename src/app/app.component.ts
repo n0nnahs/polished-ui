@@ -1,10 +1,4 @@
-import {
-  Component,
-  HostListener,
-  OnInit,
-  ViewChild,
-  ViewEncapsulation,
-} from '@angular/core';
+import { Component, HostListener, OnInit, ViewChild } from '@angular/core';
 import { MatSidenav } from '@angular/material/sidenav';
 
 @Component({
@@ -15,7 +9,6 @@ import { MatSidenav } from '@angular/material/sidenav';
 export class AppComponent {
   opened = true;
   title = 'Polished';
-  encapsulation: ViewEncapsulation.None;
   @ViewChild('sidenav', { static: true }) sidenav: MatSidenav;
 
   ngOnInit() {
@@ -35,7 +28,7 @@ export class AppComponent {
       this.opened = false;
     } else {
       this.sidenav.fixedTopGap = 65;
-      this.opened = true;
+      this.opened = false;
     }
   }
 

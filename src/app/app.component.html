@@ -18,7 +18,7 @@
     <!-- Sidenav -->
     <mat-sidenav
         #sidenav
-        [mode]="isBiggerScreen() ? 'over' : 'push'"
+        [mode]="isBiggerScreen() ? 'over' : 'side'"
         [(opened)]="opened"
         [fixedInViewport]="true"
         [fixedTopGap]
@@ -40,7 +40,7 @@
     </mat-sidenav>
 
     <!-- Main content -->
-    <mat-sidenav-content fxFlex fxLayout="column">
+    <mat-sidenav-content>
       <router-outlet></router-outlet>      
     </mat-sidenav-content>
 </mat-sidenav-container>
