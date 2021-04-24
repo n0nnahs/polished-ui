@@ -9,7 +9,8 @@ import { MatSidenav } from '@angular/material/sidenav';
 
 export class AppComponent {
   opened = true;
-  @ViewChild('sidenav', { static: false }) sidenav: MatSidenav;
+  title = "Polished"
+  @ViewChild('sidenav', { static: true }) sidenav: MatSidenav;
 
   ngOnInit() {
     console.log(window.innerWidth)
