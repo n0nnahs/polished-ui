@@ -6,10 +6,12 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './shared/material/material.module';
 import { ComponentsModule } from './components/components.module';
+import { PolishCardComponent } from './shared/polish-card/polish-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    PolishCardComponent,
   ],
   imports: [
     BrowserModule,
