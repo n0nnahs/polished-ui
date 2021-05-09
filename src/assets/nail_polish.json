@@ -1,0 +1,3866 @@
+[
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c601e"
+    },
+    "name": "Jeanne",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Pastel Blue"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c601f"
+    },
+    "name": "Hush Money",
+    "brand": "Sinful Colors",
+    "collection": "Flying Colors",
+    "type": ["Cream", "Metallic"],
+    "color": ["Pinks"],
+    "color_description": ["Rose Gold"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6020"
+    },
+    "name": "Zyler The Cat",
+    "brand": "Holo Taco",
+    "collection": "A Purrfect Pair",
+    "type": ["Topper", "Holographic"],
+    "color": ["Oranges"],
+    "color_description": null,
+    "purchase_date": "2020-08-22",
+    "description": "Zyler The Cat is a rich rusted orange holographic glitter polish.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6021"
+    },
+    "name": "All over Pink",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Rosey Pink"],
+    "purchase_date": "2021-03-28",
+    "description": " Soft Pink with Holo Glitter\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6022"
+    },
+    "name": "Marion",
+    "brand": "Julep",
+    "collection": "It Girl",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Teal"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6023"
+    },
+    "name": "Wassail Away",
+    "brand": "Girly Bits",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Browns"],
+    "color_description": ["Bordeaux"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6024"
+    },
+    "name": "Tweet Me",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["chartreuse"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6025"
+    },
+    "name": "Mom The Manager",
+    "brand": "Defy & Inspire",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Blacks"],
+    "color_description": ["Black"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6026"
+    },
+    "name": "Buttered Popcorn",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Cream", "Glitter"],
+    "color": ["Yellows"],
+    "color_description": ["Cream", "Silver"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6027"
+    },
+    "name": "Peach",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Glitter"],
+    "color": ["Oranges"],
+    "color_description": ["Orange"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6028"
+    },
+    "name": "One-coat Black",
+    "brand": "Holo Taco",
+    "collection": "Launch Collection",
+    "type": ["Cream"],
+    "color": ["Blacks"],
+    "color_description": null,
+    "purchase_date": "2019-07-19",
+    "description": "This ultra-dark black polish is opaque in — you guessed it — just one coat! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6029"
+    },
+    "name": "Grape Shifter",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "",
+    "type": ["Glitter"],
+    "color": ["Purples"],
+    "color_description": ["Multi-color"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602a"
+    },
+    "name": "Chameleon Coat",
+    "brand": "Holo Taco",
+    "collection": "Multichrome Or Go Home",
+    "type": ["Multi-chrome"],
+    "color": ["Greens"],
+    "color_description": ["Olive"],
+    "purchase_date": "2020-09-26",
+    "description": "Chameleon Coat is a multichrome shade-shifter with an armored edge, changing from an army green to an icy gunmetal and brushed bronze. It’s the colour of undercover camouflage except no one’s going to miss these nails.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602b"
+    },
+    "name": "Frost Light",
+    "brand": "Holo Taco",
+    "collection": "Holoday Collection",
+    "type": ["Jelly", "Holographic"],
+    "color": ["Blues"],
+    "color_description": ["Light Blue"],
+    "purchase_date": "",
+    "description": "This icy blue holographic glitter polish is packed with micro, small, and medium-sized silver and blue holographic glitters in a tinted light blue jelly base. Like a cold winter day in a bottle, but it won’t give you frost bite!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602c"
+    },
+    "name": "Cat’s Evasion",
+    "brand": "Holo Taco",
+    "collection": "Multichrome Or Go Home",
+    "type": ["Multi-chrome"],
+    "color": ["Purples"],
+    "color_description": ["Magenta"],
+    "purchase_date": "2020-09-26",
+    "description": "This multichrome polish is a predominantly deep magenta shade that shifts towards red and then back again through shades of gold, bronze, and rustic green. Quick to shift like a cat planning an attack!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602d"
+    },
+    "name": "Blue Flakie Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "1st Anniversary Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2020-07-18",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602e"
+    },
+    "name": "Cosmic Unicorn Skin",
+    "brand": "Holo Taco",
+    "collection": "Unicorn Skin",
+    "type": ["Topper"],
+    "color": ["Clear"],
+    "color_description": ["Iridescent"],
+    "purchase_date": "2020-03-15",
+    "description": " This iridescent flakie top coat transforms your nails like a glowing galaxy. Over a dark base, the translucent asymmetrical flakies will shift in colour from a bright pink-purple to a surprise of yellow and green. Over a light base, they appear green, blue, and purple. Perfect for galaxy nails!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c602f"
+    },
+    "name": "Nail-Robi",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Blurple"],
+    "purchase_date": "2021-03-28",
+    "description": "On the hunt for the purfect blurple? You found it!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6030"
+    },
+    "name": "Licorice",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Blacks"],
+    "color_description": ["Black"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6031"
+    },
+    "name": "Reiko",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Pinks"],
+    "color_description": ["Rose Gold"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6032"
+    },
+    "name": "Indigo Away",
+    "brand": "Holo Taco",
+    "collection": "Unicorn Skin",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Indigo"],
+    "purchase_date": "2020-03-15",
+    "description": "This deep purple indigo creme polish is the perfect dark base to wear alone or under a special effects topper\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6033"
+    },
+    "name": "Play RosÉ",
+    "brand": "Holo Taco",
+    "collection": "Holoday Collection",
+    "type": ["Jelly", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": ["Rose Gold"],
+    "purchase_date": "",
+    "description": "Packed with micro, small, and medium-sized silver and gold holographic glitters in a tinted blush pink jelly base, this polish is truly a uniquely crafted cocktail of holo.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6034"
+    },
+    "name": "The Upside",
+    "brand": "Cuticula",
+    "collection": "Hella Handmade Creation 2021-03",
+    "type": ["Crelly", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": ["Dusty Pink", "Holographic"],
+    "purchase_date": "",
+    "description": "\n‘The Upside’ from [@cuticulanailcare](https://z-p3.www.instagram.com/cuticulanailcare/) is a pink jelly base with a slight purple tinge full of silver holographic flakes, pink holographic glitters, and a sprinkling of shiny blue metallic flakes throughout. I am showing it in three coats, glossy and matte.\nThis is Cuticula’s contribution for March HHC inspired by Lindsey Stirling.\n",
+    "swatched": ""
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6035"
+    },
+    "name": "Don't Think Twice",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream", "Gel"],
+    "color": ["Blues"],
+    "color_description": ["Navy"],
+    "purchase_date": "2021-03-26",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6036"
+    },
+    "name": "Black Magick",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-September",
+    "type": ["Stamping Polish"],
+    "color": ["Blacks"],
+    "color_description": ["Black", "Holographic"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6037"
+    },
+    "name": "Zelda",
+    "brand": "Julep",
+    "collection": "Bombshell",
+    "type": ["Cream", "Shimmer"],
+    "color": ["Silvers"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6038"
+    },
+    "name": "French Tip",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Whites"],
+    "color_description": ["Whites"],
+    "purchase_date": "",
+    "description": "French Tip is perfect for creating a classic French manicure. Say Merci Beaucoup to this snow white shade!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6039"
+    },
+    "name": "",
+    "brand": "",
+    "collection": "",
+    "type": null,
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": ""
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603a"
+    },
+    "name": "Rejuvenate Polish Thinner ",
+    "brand": "Girly Bits",
+    "collection": "",
+    "type": ["Polish Thinner"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603b"
+    },
+    "name": "Queen Of Beauty",
+    "brand": "Sinful Colors",
+    "collection": "",
+    "type": ["Topper", "Glitter"],
+    "color": ["Silvers"],
+    "color_description": ["Multi-color"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603c"
+    },
+    "name": "Fake Date",
+    "brand": "Holo Taco",
+    "collection": "Frosted Metals Collection",
+    "type": ["Metallic Foil"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2020-12-25",
+    "description": "This metallic frosty lilac polish is packed with enough reflective foil pigments to fool your friends and family into asking where you got that nail polish all night.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603d"
+    },
+    "name": "Dree",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Dusty ", "Olive", "Warm", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Dree by Zoya can be best described as a light, dusty drab olive green with yellow tones and a touch of grey.Brings the look of camouflage to your nails for a subtle green look\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603e"
+    },
+    "name": "Ma-holo At Me",
+    "brand": "China Glaze",
+    "collection": "Shades Of Paradise",
+    "type": ["Holographic"],
+    "color": ["Blues"],
+    "color_description": ["Pastel Blue", "Silver"],
+    "purchase_date": "2019-08-25",
+    "description": "Holla at your girl but she’ll be busy frolicking in an ocean that shines as brilliantly as this blue holographic.\n_\"This summer, get some color. No tanning necessary. Just dip your tips in these sea-blue shimmers and bask in the pinky-purple warmth of these tropical sunset crèmes.\"_\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c603f"
+    },
+    "name": "Pestilence",
+    "brand": "Vapid Lacquer ",
+    "collection": "Polish Pickup 03-2020",
+    "type": ["Crelly"],
+    "color": ["Blacks"],
+    "color_description": null,
+    "purchase_date": "2020-03-09",
+    "description": "Vapid Lacquer brings us a vampy opalescent shade this month! Pestilence is described as a black jelly base with blue/purple/green shifting iridescent flakes and a touch of holo sparkle! Inspired by the doctor's masks during the plague and the inevitable effects of the plague. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6040"
+    },
+    "name": "Francis",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Greens"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6041"
+    },
+    "name": "Sea Glass - Ginger Peach",
+    "brand": "Anchor And Heart Lacquer ",
+    "collection": "Polish Pickup 06-2020",
+    "type": ["Topper", "Matte"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2020-06-06",
+    "description": "A velvet finish that makes all the flakies pop, we will be going in a slightly different direction and offering it in a Ginger Peach scent that is absolutely perfect for summer! Think juicy peach mixed with black tea, and a kick of ginger for depth! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6042"
+    },
+    "name": "Lemon Fizz",
+    "brand": "China Glaze",
+    "collection": "Up And Away",
+    "type": ["Cream"],
+    "color": ["Yellows"],
+    "color_description": ["Yellows"],
+    "purchase_date": "2019-08-25",
+    "description": "Pale yellow lemon, like lemon meringue pie. Free of Toluene, Dibutyl Phthalate, Formaldehyde/ Formalehyde Resin, Camphor, Ethyl Tosylamide, Xylene, Triphenyl Phosphate.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6043"
+    },
+    "name": "Light-camera-glitter",
+    "brand": "Nyc New York Color",
+    "collection": "",
+    "type": ["Topper", "Glitter"],
+    "color": ["Silvers"],
+    "color_description": ["Silver", "Royal Blue"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6044"
+    },
+    "name": "Top Shelf",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Gel", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": ["Holographic"],
+    "purchase_date": "2021-03-26",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6045"
+    },
+    "name": "On My Grey",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Insta-dri",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": ["Grey"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6046"
+    },
+    "name": "Gayle",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6047"
+    },
+    "name": "Tove",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Greys"],
+    "color_description": ["Grey"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6048"
+    },
+    "name": "Candy Cake",
+    "brand": "Whatcha",
+    "collection": "Polish Pickup 05-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Pinks"],
+    "color_description": ["Bubblegum Pink", "Rainbow glitters"],
+    "purchase_date": "2020-05-01",
+    "description": "I want to present the \"Candy Cake\" a pink crelly with candy glitters and golden flakes, inspired by a confectioned cake.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6049"
+    },
+    "name": "Red Licorice ",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Reds"],
+    "color_description": ["Red"],
+    "purchase_date": "",
+    "description": "This bright red polish is a new classic, packed with linear holographic pigment for a super-intense linear holo flame. Bright n’ juicy like strawberry Red Licorice — but don’t lick it!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604a"
+    },
+    "name": "Solar Unicorn Skin",
+    "brand": "Holo Taco",
+    "collection": "Unicorn Skin",
+    "type": ["Topper"],
+    "color": ["Clear"],
+    "color_description": ["Iridescent"],
+    "purchase_date": "2020-03-15",
+    "description": "This iridescent flakie top coat transforms your nails like glowing fire embers. Over a dark base, the translucent asymmetrical flakies will shift in colour from a vibrant red-orange to a glowing yellow-green. Over a light base, they appear pink and cyan blue. Solar system who?\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604b"
+    },
+    "name": "Tempest",
+    "brand": "Sinful Colors",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604c"
+    },
+    "name": "Ducky",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-April ",
+    "type": ["Stamping Polish"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604d"
+    },
+    "name": "Slay the Day",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream", "Matte", "Textured"],
+    "color": ["Pinks"],
+    "color_description": ["Bright Pink"],
+    "purchase_date": "2021-03-28",
+    "description": "On the hunt for the purfect blurple? You found it!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604e"
+    },
+    "name": "In The Tank",
+    "brand": "Defy & Inspire",
+    "collection": "Holiday",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Mauve"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c604f"
+    },
+    "name": "Estelle",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream", "Holographic"],
+    "color": ["Blacks"],
+    "color_description": ["Black"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6050"
+    },
+    "name": "Very Cherry",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": ["Red"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6051"
+    },
+    "name": "Your Hut Or Mine",
+    "brand": "Essie",
+    "collection": "Resort 2011",
+    "type": ["Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": ["Pink", "Gold "],
+    "purchase_date": "2019-08-25",
+    "description": "Deep pink nail color with subtle golden shimmer.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6052"
+    },
+    "name": "Rowan",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Browns"],
+    "color_description": ["Taupe"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6053"
+    },
+    "name": "Antonia",
+    "brand": "Julep",
+    "collection": "It Girl",
+    "type": ["Topper", "Glitter"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6054"
+    },
+    "name": "Sodium",
+    "brand": "Atomic Polish",
+    "collection": "2nd Anniversary Collection",
+    "type": ["Linear holographic"],
+    "color": ["Purples"],
+    "color_description": ["Holographic"],
+    "purchase_date": "2021-03-08",
+    "description": "Sodium is a linear holographic nail polish. This nail polish has a lavender purple base and is packed with holographic pigment. It is opaque in 2-3 coats depending on application. Use a good base and top coat to get more durability and longevity from your manicure!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6055"
+    },
+    "name": "Through The Grape Vine",
+    "brand": "Wet N Wild",
+    "collection": "Megalast",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6056"
+    },
+    "name": "North Star",
+    "brand": "Spa Ritual",
+    "collection": "",
+    "type": ["Cream", "Metallic"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6057"
+    },
+    "name": "Love Potion",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-September",
+    "type": ["Stamping Polish"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6058"
+    },
+    "name": "A Whole New World",
+    "brand": "Pretty Jelly",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Foil"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-09-06",
+    "description": "Pretty Jelly is bringing you \"A Whole New World\" for September's Magic & Alchemy theme! Inspired by Aladdin, this metallic purple flakie is filled with holo flakes, blue-to-red, aqua-to-purple, and red-to-gold ucc flakies.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6059"
+    },
+    "name": "Berry Pink",
+    "brand": "E.l.f.",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "2019-08-25",
+    "description": " \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605a"
+    },
+    "name": "Bone Chilling",
+    "brand": "Essie",
+    "collection": "Morticia’s Nails",
+    "type": ["Cream"],
+    "color": ["Whites"],
+    "color_description": ["Whites"],
+    "purchase_date": "2019-08-25",
+    "description": "?\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605b"
+    },
+    "name": "Happy Camper",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Baby Blue", "Dusty "],
+    "purchase_date": "2021-03-12",
+    "description": "Sunny, chill vibe days are on the horizon. Give yourself a mani/pedi with this pastel turquoise creme that is sure to put a smile on your face as you head out for that carefree day trip.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605c"
+    },
+    "name": "Purple Flakie Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "1st Anniversary Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2020-07-18",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605d"
+    },
+    "name": "Marley",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lavender", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Marley by Zoya can be best described as a pale lavender with a subtle silvery pearl finish. A versatile, easy to apply and wear pastel shade that's never chalky or harsh.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605e"
+    },
+    "name": "Stockholm Blossom",
+    "brand": "Maniology",
+    "collection": "Winter Solstice",
+    "type": ["Stamping Polish"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c605f"
+    },
+    "name": "Brittany",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Pinks"],
+    "color_description": ["Dusty Pink"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6060"
+    },
+    "name": "Dry Fast Top Coat",
+    "brand": "Seche Vite",
+    "collection": "",
+    "type": ["Top Coat", "QDGT"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6061"
+    },
+    "name": "Adrianna",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Mint Green"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6062"
+    },
+    "name": "Lie-lac",
+    "brand": "Sinful Colors",
+    "collection": "Live In Color",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6063"
+    },
+    "name": "Candy Crush",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Topper", "Flaked"],
+    "color": ["Multi-color"],
+    "color_description": ["Rainbow Flakes"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6064"
+    },
+    "name": "Maleficent Drink",
+    "brand": "Whatcha",
+    "collection": "Polish Pickup 06-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Purple", "Red"],
+    "purchase_date": "2020-06-06",
+    "description": "Maleficent Drink by Whatcha, inspired by the drink.\nIt has electric purple crelly base with red glitter\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6065"
+    },
+    "name": "Thistle Do Nicely",
+    "brand": "China Glaze",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "2019-08-25",
+    "description": "Thistle Do Nicely is actually a bright punchy pink neon. It's a really gorgeous glowing color, the kind that China Glaze really does best.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6066"
+    },
+    "name": "Charlotte",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6067"
+    },
+    "name": "Freedom Polymer",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Top Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6068"
+    },
+    "name": "Menchie The Cat",
+    "brand": "Holo Taco",
+    "collection": "A Purrfect Pair",
+    "type": ["Topper", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2020-08-22",
+    "description": "Menchie The Cat is a twinkling baby pink holographic glitter polish\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6069"
+    },
+    "name": "Main Squeeze",
+    "brand": "Essie",
+    "collection": "Wedding Collection",
+    "type": ["Shimmer", "Sheer"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2019-08-25",
+    "description": "A shimmering lilac cream\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606a"
+    },
+    "name": "Dot",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Muted ", "Pink", "Warm"],
+    "purchase_date": "2021-03-08",
+    "description": "Dot by Zoya can be best described as a pale, muted pink cream.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606b"
+    },
+    "name": "Mic Drop Base Coat",
+    "brand": "Cuticula",
+    "collection": "Polish Pickup December 2019",
+    "type": ["Base Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-12-02",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606c"
+    },
+    "name": "Reya",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Reds"],
+    "color_description": ["Cool", "strawberry red", "Gold"],
+    "purchase_date": "2021-03-08",
+    "description": "Reva by Zoya can be best described as a cool toned strawberry red with glowing golden metallic sparkle. A very rich and luxurious looking gilded red.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606d"
+    },
+    "name": "Thyme Is Money",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Greens"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606e"
+    },
+    "name": "Mae",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Pinks"],
+    "color_description": ["Hot Pink", "Warm"],
+    "purchase_date": "2021-03-08",
+    "description": "Mae by Zoya can best be described as a warm magenta pink with a micronized metallic pearl finish, reminiscent of vibrant Mediterranean flowers.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c606f"
+    },
+    "name": "Leah",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Greys"],
+    "color_description": ["Grey"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6070"
+    },
+    "name": "Blush",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Base Coat"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6071"
+    },
+    "name": "Flakie Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "Launch Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Holographic"],
+    "color_description": ["Holographic"],
+    "purchase_date": "2019-07-19",
+    "description": "The asymmetrical holo flakies offer a dazzling sparkle with an edge that can’t be missed.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6072"
+    },
+    "name": "Phantom",
+    "brand": "Maniology",
+    "collection": "Mani X Me 2019-October",
+    "type": ["Stamping Polish"],
+    "color": ["Purples"],
+    "color_description": ["Purple", "Metalic"],
+    "purchase_date": "2019-10-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6073"
+    },
+    "name": "Marzarine Blue",
+    "brand": "Tips Nail Polish",
+    "collection": "Polish Pickup 03-2021",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Lavender", "Gold"],
+    "purchase_date": "2021-03-05",
+    "description": "Mazarine Blue — lilac crelly filled with two types of flakes: one shifting from blue to purple and another from pink to purple to lime green.. We were inspired by the small butterfly\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6074"
+    },
+    "name": "Spring Fling",
+    "brand": "Sinful Colors",
+    "collection": "Newshades 2019",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": ["Grey"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6075"
+    },
+    "name": "Oxygen",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Base Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6076"
+    },
+    "name": "Haruko",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Purples"],
+    "color_description": ["Violet", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Haruko by Zoya can be best described as a soft, violet metallic.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6077"
+    },
+    "name": "Gemma",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Greens"],
+    "color_description": ["Olive", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Gemma by Zoya can be best described as a light muted olive green with an overlay of blue and violet duochrome shimmer.Unique, hip and cutting-edge yet subtle enough to suit any wardrobe.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6078"
+    },
+    "name": "Viper",
+    "brand": "Maniology",
+    "collection": "Mani X Me 2019-October",
+    "type": ["Stamping Polish"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-10-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6079"
+    },
+    "name": "Purple Slushie ",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Purples"],
+    "color_description": ["Royal Purple"],
+    "purchase_date": "",
+    "description": "This vivid polish is a true purple shade packed with linear holographic pigment for a super-intense royal linear holo flame. Your nails are the holo queen now!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607a"
+    },
+    "name": "Hatched",
+    "brand": "Rogue Lacquer",
+    "collection": "Polish Pickup 03-2021",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Blues"],
+    "color_description": ["Robins Egg Blue", "Gold"],
+    "purchase_date": "2021-03-05",
+    "description": "Our springy polish is a creamy robins egg blue base and beautifully accented with copper mettalic flakes! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607b"
+    },
+    "name": "Gemma",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream", "Sheer"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607c"
+    },
+    "name": "Nail Tape Gummy Bears",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Nail Treatment"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607d"
+    },
+    "name": "Braziliant",
+    "brand": "Essie",
+    "collection": "Summer 2011",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Oranges"],
+    "color_description": ["Bright Orange"],
+    "purchase_date": "2019-08-25",
+    "description": "Braziliant, a blazing sexy orange with gold undertones\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607e"
+    },
+    "name": "Chewnicorn",
+    "brand": "Bee's Knees Lacquer",
+    "collection": "Polish Pickup 05-2020",
+    "type": ["Cream", "Shimmer"],
+    "color": ["Blues"],
+    "color_description": ["Baby Blue", "Red to Green"],
+    "purchase_date": "2020-05-01",
+    "description": "Chewnicorn is a baby blue creme polish full of red to green shifting shimmer.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c607f"
+    },
+    "name": "Get It Right, Get It Bright",
+    "brand": "China Glaze",
+    "collection": "Chic Physique",
+    "type": ["Cream", "Shimmer"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2019-08-25",
+    "description": "**Get It Right, Get It Bright **is a purple creme with a pink iridescent glitter.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6080"
+    },
+    "name": "Paulette",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6081"
+    },
+    "name": "Bubblemint",
+    "brand": "Dreamland",
+    "collection": "Polish Pickup 05-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Greens"],
+    "color_description": ["Mint Green", "Gold"],
+    "purchase_date": "2020-05-01",
+    "description": "This one is a minty pastel green crelly with iridescent flakes and just a touch of holo glitter, inspired by Mint Aero.  The color of this one is so gorgeous, it's almost a neon pastel on the nail.  My pictures show 3 coats + topcoat!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6082"
+    },
+    "name": "Berry Blue",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Blues"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6083"
+    },
+    "name": "A Cut Above",
+    "brand": "Essie",
+    "collection": "Luxeffects",
+    "type": ["Topper", "Glitter"],
+    "color": ["Pinks"],
+    "color_description": ["Rose Gold"],
+    "purchase_date": "2019-08-25",
+    "description": "?\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6084"
+    },
+    "name": "Magenta Jelly",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Purples"],
+    "color_description": ["Magenta"],
+    "purchase_date": "",
+    "description": "This deep magenta polish is packed with so much linear holographic pigment that you’ll be tempted to spread it on your toast (but don’t). Ever torn between pink and purple? This is the perfect in-between shade!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6085"
+    },
+    "name": "Turquoise",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-December",
+    "type": ["Stamping Polish"],
+    "color": ["Greens"],
+    "color_description": ["Turquoise"],
+    "purchase_date": "2019-12-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6086"
+    },
+    "name": "Saffron",
+    "brand": "Girly Bits",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Yellows"],
+    "color_description": ["Gold"],
+    "purchase_date": "2019-11-29",
+    "description": "Girly Bits Saffron Stamping Polish is an opaque golden mustard pearl polish formulated specifically for stamping nail art. It is hand made with the same high quality ingredients that you have come to love and trust from Girly Bits polish. Ingredients will be listed on the bottom label as per usual. Stamping polishes are 5-Free unless otherwise noted.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6087"
+    },
+    "name": "Static Base Coat - Lemon Curd",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Base Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6088"
+    },
+    "name": "Python",
+    "brand": "Maniology",
+    "collection": "Mani X Me 2019-October",
+    "type": ["Stamping Polish"],
+    "color": ["Pinks"],
+    "color_description": ["Rose Gold", "Metalic"],
+    "purchase_date": "2019-10-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6089"
+    },
+    "name": "Blakely",
+    "brand": "Julep",
+    "collection": "Bombshell",
+    "type": ["Duo-chrome"],
+    "color": ["Purples"],
+    "color_description": ["Purple", "Greens"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608a"
+    },
+    "name": "Blue Freezie ",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Blues"],
+    "color_description": ["Blues"],
+    "purchase_date": "",
+    "description": "This vibrant rich blue polish is so packed with linear holographic pigment it may freeze your brain. Blue holo nails are a mood and our mood is holo all the time.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608b"
+    },
+    "name": "Linear Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "Launch Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Holographic"],
+    "color_description": ["Holographic"],
+    "purchase_date": "2019-07-19",
+    "description": "Linear holo means that the tiny holographic pigments are close enough together that they form rainbows in the shape of a line. Watch it shift as you move your nails under the light!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608c"
+    },
+    "name": "Midnight Tango",
+    "brand": "Essie",
+    "collection": "Morticia’s Nails",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Navy"],
+    "purchase_date": "2019-08-25",
+    "description": "?\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608d"
+    },
+    "name": "Hailee",
+    "brand": "Julep",
+    "collection": "Suedes",
+    "type": ["Cream", "Suede"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608e"
+    },
+    "name": "Rose Dust",
+    "brand": "Sinful Colors",
+    "collection": "Professional",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c608f"
+    },
+    "name": "Fantasy Suite",
+    "brand": "Defy & Inspire",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Navy"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6090"
+    },
+    "name": "Lotus",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Purples"],
+    "color_description": ["Amethyst", "Blue-toned", "Cool", "Warm"],
+    "purchase_date": "2021-03-08",
+    "description": "Lotus is a very soft, dusty blue-toned amethyst purple with colorful shimmer that reflects pink, red and gold. A dreamy smoky shade for purple lovers that looks both soft and luminous.\n\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6091"
+    },
+    "name": "Luxe",
+    "brand": "Orly",
+    "collection": "Foil Fx",
+    "type": ["Cream", "Metallic"],
+    "color": ["Yellows"],
+    "color_description": ["Gold"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6092"
+    },
+    "name": "I’m Pun-decided",
+    "brand": "Girly Bits",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple", "Grey"],
+    "purchase_date": "2019-11-29",
+    "description": "- Yabos is a rich but smoky purple crème. Super smooth. Super pigmented.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6093"
+    },
+    "name": "To The Stars That Listen",
+    "brand": "Zombie Claw",
+    "collection": "Polish Pickup January 2020",
+    "type": ["Jelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2020-01-03",
+    "description": "\"To the Stars that Listen...\" by [Zombie Claw Polish](https://www.facebook.com/zombieclawpolish/?__cft__[0]=AZUghLfT83livPD8Z5dBbnfsMIndXGpzPpQgdJAnW2sBTL3j9mURQJvv8Z_vTsyYYBWLQU2ORRv0X-rEiaAf9R0qFLW7xTrVAMifQH4KbKADU4keErXaMB5Mp_T-dk3qklrIOhIbwMFeqBJBc8AMLbuY&__tn__=kK-R) is described as a mauve with holo flakes loaded with 2 types of chameleon changing flakes, (blue-silver-purple & pink-gold-green)!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6094"
+    },
+    "name": "Coral Crusader",
+    "brand": "Painted Polish",
+    "collection": "Polish Pickup 04-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Pinks"],
+    "color_description": ["Pink", "Gold"],
+    "purchase_date": "2020-04-03",
+    "description": "‘Coral Crusader’ features green, blue to gold color-shifting flakies in a bright coral pink crelly base!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6095"
+    },
+    "name": "Neeka",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Purples"],
+    "color_description": ["Amethyst", "Grey", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Neeka by Zoya can be best described as a greyed amethyst with subtle red duochrome shimmer and bright gold glitter accents. A fascinating, unique shade that manages to be glittery but not too flashy.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6096"
+    },
+    "name": "Candace",
+    "brand": "Julep",
+    "collection": "It Girl",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6097"
+    },
+    "name": "Astelle",
+    "brand": "Julep",
+    "collection": "",
+    "type": null,
+    "color": null,
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6098"
+    },
+    "name": "Aisha",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": ["Burgundy"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6099"
+    },
+    "name": "Mint Cream",
+    "brand": "E.l.f.",
+    "collection": "Disney Jasmine",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Mint"],
+    "purchase_date": "2019-08-25",
+    "description": "This color-lock formula with chip resistant shield gives long lasting nail color with high shine. The aerodynamic bristle design glides color on flawlessly, while the quick dry formula gives perfect application every time. Key nutrients give nails that natural shine, infused with Vitamin E for stronger, healthier nails.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609a"
+    },
+    "name": "Luna",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-February ",
+    "type": ["Stamping Polish"],
+    "color": ["Greys"],
+    "color_description": ["Silver"],
+    "purchase_date": "2020-02-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609b"
+    },
+    "name": "Almond Nude",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Coral"],
+    "purchase_date": "2019-08-25",
+    "description": "The shade Almond Nude is a beautiful **peachy coral color** without any shimmer. It is decently pigmented and 3 coats are required for the complete opaque look.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609c"
+    },
+    "name": "Long-lasting Base",
+    "brand": "Holo Taco",
+    "collection": "",
+    "type": ["Base Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-11-16",
+    "description": "Keep your manicure intact and prevent chipping with this long-lasting base coat that helps bond your nail polish to your nails. Love your holo for longer!\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609d"
+    },
+    "name": "Way Harsh",
+    "brand": "Color Club",
+    "collection": "Movie Night Twilight Collection",
+    "type": ["Crelly"],
+    "color": ["Pinks"],
+    "color_description": ["Pink", "Silver"],
+    "purchase_date": "2021-03-28",
+    "description": " Soft Pink with Holo Glitter\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609e"
+    },
+    "name": "Charmmy & Sugar",
+    "brand": "Opi",
+    "collection": "Hello Kitty",
+    "type": ["Topper", "Glitter"],
+    "color": ["Iridescent"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "OPI Charmmy & Sugar is what would result from combining Barbie and the Snow Queen…with a little glitter fight in the arts and crafts room.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c609f"
+    },
+    "name": "Beach Bum",
+    "brand": "Defy & Inspire",
+    "collection": "",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a0"
+    },
+    "name": "Alive By Magic",
+    "brand": "Emily De Molly",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Jelly", "Flaked"],
+    "color": ["Reds"],
+    "color_description": ["Red"],
+    "purchase_date": "2019-09-06",
+    "description": "Alive By Magic is a dark red jelly base filled with red to gold to green shifting iridescent glitters.\nThe glitters will predominately show red / orange and gold with some green showing up on extreme angles.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a1"
+    },
+    "name": "As If! ",
+    "brand": "Color Club",
+    "collection": "Movie Night Twilight Collection",
+    "type": ["Topper", "Glitter"],
+    "color": ["Clear"],
+    "color_description": ["Gold", "Pink"],
+    "purchase_date": "2021-03-28",
+    "description": "Grab your BFF and get the popcorn ready because we're paying homage to your favorite flicks with a multi-series Movie Night collection!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a2"
+    },
+    "name": "Super Glossy Taco",
+    "brand": "Holo Taco",
+    "collection": "",
+    "type": ["Top Coat"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-09-27",
+    "description": "The best quick-dry thick and glossy taco your nails have ever touched! This top coat dries and sets your nail polish super quick, locking in your mani of choice with a rock hard glass-like seal\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a3"
+    },
+    "name": "Neely",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Mint", "Warm"],
+    "purchase_date": "2021-03-08",
+    "description": "Neely by Zoya can be best described as a full coverage earliest spring green in a glossy creme finish.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a4"
+    },
+    "name": "Are You Listening",
+    "brand": "Polished For Days",
+    "collection": "Polish Pickup 10-2019",
+    "type": ["Jelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-10-04",
+    "description": "Here is Polished For Days 'Are you Listening?' a cool toned purple base with pink to green shifting flakes and holographic flakes. Swatches show 3 coats plus top coat.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a5"
+    },
+    "name": "Let Love Grow",
+    "brand": "Girly Bits",
+    "collection": "Bridal",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Mint"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a6"
+    },
+    "name": "Give Us the Cuddlefish",
+    "brand": "Swamp Gloss",
+    "collection": "Polish Pickup 03-2021",
+    "type": ["Crelly", "Thermal", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Pink", "Purple", "Gold"],
+    "purchase_date": "2021-03-05",
+    "description": "Give Us The Cuddlefish is a purple (cold) to pink (warm) thermal with red/gold shimmer, iridescent flakies and gold metallic flakies. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a7"
+    },
+    "name": "Noel",
+    "brand": "Zoya",
+    "collection": "Gems And Jewels",
+    "type": ["Metallic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a8"
+    },
+    "name": "Smooth Sailing",
+    "brand": "Essie",
+    "collection": "Braziliant",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Blues"],
+    "color_description": ["Periwinkle"],
+    "purchase_date": "2019-08-25",
+    "description": "A breezy lavender blue with a reflection of pearl\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60a9"
+    },
+    "name": "Here Comes The Sun",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Yellows"],
+    "color_description": ["Golden Yellow"],
+    "purchase_date": "2021-03-12",
+    "description": "Yellow? It’s me. The saffron yellow creme polish of your springtime dreams. Perfect on its own for a solid color mani or used in groovy nail art, you can’t go wrong with this sunny shade.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60aa"
+    },
+    "name": "Party Punch",
+    "brand": "Holo Taco",
+    "collection": "Holoday Collection",
+    "type": ["Jelly", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": ["Hot Pink"],
+    "purchase_date": "",
+    "description": " This vibrant pink holographic glitter polish is packed with micro, small, and medium-sized silver and pink holographic glitters in a tinted pink jelly base.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ab"
+    },
+    "name": "In The Beginning",
+    "brand": "Blush Lacquers",
+    "collection": "Polish Pickup 03-2020",
+    "type": ["Linear holographic"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2020-03-06",
+    "description": "Victoria of Blush Lacquers brings us In the Beginning, inspired by the creation of the universe! Described as a pale, silver toned lavender-y pink, linear ultra holographic. I included a direct light macro so you can see just how holo it is!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ac"
+    },
+    "name": "Gift Receipt",
+    "brand": "Holo Taco",
+    "collection": "Frosted Metals Collection",
+    "type": ["Metallic Foil"],
+    "color": ["Silvers"],
+    "color_description": ["Sterling Silver"],
+    "purchase_date": "2020-12-25",
+    "description": "This stunning sterling polish is packed with silver metallic foil to give it a polished and reflective finish as smooth as your gift giving skills.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ad"
+    },
+    "name": "Matte About You",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Top Coat", "Matte"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "Matte topcoat\n\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ae"
+    },
+    "name": "Hedge Fund",
+    "brand": "Ruffian",
+    "collection": "",
+    "type": ["Cream", "Metallic"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60af"
+    },
+    "name": "Kristy",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Blues"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b0"
+    },
+    "name": "Nice Is Nice",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lilac"],
+    "purchase_date": "2019-08-25",
+    "description": "whimsical light lavender nail color is perfect for a chic holiday\n",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b1"
+    },
+    "name": "On A Trip",
+    "brand": "Wet N Wild",
+    "collection": "Megalast",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b2"
+    },
+    "name": "A Red-vival City",
+    "brand": "Opi",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": ["Red Orange"],
+    "purchase_date": "2021-03-28",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b3"
+    },
+    "name": "Rica",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Oranges"],
+    "color_description": ["Pink", "Coral", "Warm"],
+    "purchase_date": "2021-03-08",
+    "description": "Rica by Zoya can be best described as a warm light coral with pink and orange tones and heavy gold metallic sparkle. An alternative to flat corals for when you want to shine.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b4"
+    },
+    "name": "Sugar Plum",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Holographic"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b5"
+    },
+    "name": "Glamour Purse",
+    "brand": "Essie",
+    "collection": "Carry On",
+    "type": ["Cream"],
+    "color": ["Browns"],
+    "color_description": ["Taupe"],
+    "purchase_date": "2019-08-25",
+    "description": " \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b6"
+    },
+    "name": "Hoseki Majutsu 010",
+    "brand": "Pi Colors",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Metallic"],
+    "color": ["Blues"],
+    "color_description": ["Blues"],
+    "purchase_date": "2019-09-06",
+    "description": "This is a blue black shimmering metallic polish, with a red/violet/blue aurora shimmer and diamond flake holo. The name means \"Jewel Magic\" and is inspired by Tohsaka Rin and her jewel magic style from Fate/Stay Night Unlimited Bladeworks. You can check out Delanie's live swatch in her YouTube video here at the 5:15 mark : [https://youtu.be/2t1UOy4AR7c](https://youtu.be/2t1UOy4AR7c?fbclid=IwAR2V2nWRSvGM61Vv7C5o-oP8yJm56n4giIyYMhvcH3J6PXIw9EBxojlKsc8)\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b7"
+    },
+    "name": "Can You Not? ",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lavender"],
+    "purchase_date": "2021-03-28",
+    "description": "Not today, thx. \n\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b8"
+    },
+    "name": "Aurora Unicorn Skin",
+    "brand": "Holo Taco",
+    "collection": "Unicorn Skin",
+    "type": ["Topper"],
+    "color": ["Clear"],
+    "color_description": ["Iridescent"],
+    "purchase_date": "2020-03-15",
+    "description": "This iridescent flakie top coat transforms your nails like a wash of colourful lights in the night sky. Over a dark base, the translucent asymmetrical flakies will shift in colour from a bold blue-purple to a hint of pink. Over a light base, they appear yellow, green, and blue. Time to get shifting!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60b9"
+    },
+    "name": "Feeling Foxy",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": ["Dark ", "Navy"],
+    "purchase_date": "2021-03-12",
+    "description": "Who says vampy colors aren’t a year round staple? This deep plum creme is so richly pigmented that it might be mistaken for charcoal or black. Flaunt that dark mani, no matter the season.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ba"
+    },
+    "name": "Cleopatra",
+    "brand": "Julep",
+    "collection": "Bombshell",
+    "type": ["Cream", "Matte"],
+    "color": ["Blacks"],
+    "color_description": ["Black"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60bb"
+    },
+    "name": "Candy-licious",
+    "brand": "Wet N Wild",
+    "collection": "Megalast",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60bc"
+    },
+    "name": "Nobody's Damsel",
+    "brand": "Painted Polish",
+    "collection": "Polish Pickup 03-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": ["Lilac", "Gold"],
+    "purchase_date": "2020-03-06",
+    "description": "Nobody's Damsel is a medium purple crelly base with cobalt blue to purple to bronze color shifting chrome flakes.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60bd"
+    },
+    "name": "Quite Magnificent",
+    "brand": "Anchor And Heart Lacquer ",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Topper", "Matte", "Iridescent "],
+    "color": ["Iridescent"],
+    "color_description": null,
+    "purchase_date": "2019-09-06",
+    "description": "Anchor & Heart Lacquer is back this month with our signature Sea Glass matte topcoat & flakie combo! Our inspiration comes from one of our favorite shows! And to love Supernatural, is to love Rowena MacLeod, amiright? Fabulous, sarcastic, ageless, magical...Rowena is as magnificent a witch as they get! \nQuite Magnificent (her words, not mine!) is a true matte topcoat with blue/green aurora shimmer and shifting blue/green/purple iridescent flakies. It dries to a beautiful velvety finish and looks amazing over almost any color! Add a coat of glossy topcoat for a whole different look! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60be"
+    },
+    "name": "Frozen",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-November ",
+    "type": ["Stamping Polish"],
+    "color": ["Whites"],
+    "color_description": ["Pearl"],
+    "purchase_date": "2019-11-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60bf"
+    },
+    "name": "Memento Mori",
+    "brand": "Cirque",
+    "collection": "Back To Basics",
+    "type": ["Cream"],
+    "color": ["Blacks"],
+    "color_description": ["Black"],
+    "purchase_date": "2018-12-26",
+    "description": "- Memento Mori is a super opaque black creme nail polish that is ideal for nail art or as a base color for glitter polishes and was named Best Black Polish by Simply Nailogical\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c0"
+    },
+    "name": "Crushes & Cassette Tapes",
+    "brand": "Crystal Knockout",
+    "collection": "Polish Pickup 04-2021",
+    "type": ["Crelly", "Glitter", "Glow-in-the-dark"],
+    "color": ["Blues"],
+    "color_description": ["Royal Blue"],
+    "purchase_date": "2021-04-02",
+    "description": "Inspired by cassette tapes\nA bright blue base with matte glitters in hot pink, bubblegum pink, and mint green, matte lavender microbars, and a bright aqua glow in the dark effect\n",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c1"
+    },
+    "name": "Mimi",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Purples"],
+    "color_description": ["Royal Purple", "Gold", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Mimi by Zoya can be best described as a royal purple sparkling metallic with cool undertones.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c2"
+    },
+    "name": "Follow Me",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Lilac", "Dusky Grey"],
+    "purchase_date": "2021-03-28",
+    "description": "You'll want to get a little social to show off this gorgeous shade. Click, swipe, follow and fall in love!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c3"
+    },
+    "name": "Cherry Bomb",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-January",
+    "type": ["Stamping Polish"],
+    "color": ["Reds"],
+    "color_description": null,
+    "purchase_date": "2020-01-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c4"
+    },
+    "name": "Claudette",
+    "brand": "Julep",
+    "collection": "Classic With A Twist ",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": ["Red"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c5"
+    },
+    "name": "Kiki",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Pinks"],
+    "color_description": ["Hot Pink", "Cool"],
+    "purchase_date": "2021-03-08",
+    "description": "Kiki by Zoya can be best described as a vivid hot pink with strong blue-violet duochrome and flecks of silver shimmer. A fun shade for vibrant, noticeable nails.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c6"
+    },
+    "name": "Millionaire",
+    "brand": "Nailtini",
+    "collection": "Speakeasy Lacquer Collection",
+    "type": ["Topper", "Glitter"],
+    "color": ["Oranges"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": " Millionaire is chock full of gold glitter particles, gold bar glitters as well as teal and green bar glitter. I used 1 coat of Millionaire over Sidecar for this picture!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c7"
+    },
+    "name": "One Coat Black",
+    "brand": "Holo Taco",
+    "collection": "Launch Collection",
+    "type": ["Cream"],
+    "color": ["Blacks"],
+    "color_description": null,
+    "purchase_date": "2019-07-19",
+    "description": "This ultra-dark black polish is opaque in — you guessed it — just one coat! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c8"
+    },
+    "name": "Can you dig it? ",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Oranges"],
+    "color_description": ["Dark ", "Coral"],
+    "purchase_date": "2021-03-12",
+    "description": "Can you dig it? This terracotta creme polish is the perfect neutral to make the seasonal switch from winter to spring.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60c9"
+    },
+    "name": "This Ones For You",
+    "brand": "China Glaze",
+    "collection": "Breast Cancer Awareness Collection",
+    "type": ["Topper", "Glitter"],
+    "color": ["Multi-color"],
+    "color_description": ["Multi-color"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ca"
+    },
+    "name": "Mai Tai",
+    "brand": "Nailtini",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Oranges"],
+    "color_description": ["Red Orange"],
+    "purchase_date": "2019-08-25",
+    "description": "Beach-ready doesn't stop at your coverup! It goes all the way down to your toes! Nailtini is making sure your toes are nothing less than intoxicating this summer with our seasonal fave shade, Mai Tai. This rich creamy tangerine sunrise is the perfect complement to sandals and sun-kissed skin.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60cb"
+    },
+    "name": "Alexandra",
+    "brand": "Julep",
+    "collection": "Boho Glam",
+    "type": ["Cream"],
+    "color": ["Nudes"],
+    "color_description": ["Nudes"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60cc"
+    },
+    "name": "Ensemble-y Challenged",
+    "brand": "Color Club",
+    "collection": "Movie Night Twilight Collection",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Whites"],
+    "color_description": ["Pearl"],
+    "purchase_date": "2021-03-28",
+    "description": "Grab your BFF and get the popcorn ready because we're paying homage to your favorite flicks with a multi-series Movie Night collection!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60cd"
+    },
+    "name": "Casper",
+    "brand": "Julep",
+    "collection": "It Girl",
+    "type": ["Cream", "Glow-in-the-dark"],
+    "color": ["Whites"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ce"
+    },
+    "name": "Grow Stronger",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Base Coat", "Nail Growth"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Essie® grow stronger base coat is formulated with Ginkgo Biloba, vitamin E and minerals that leave nails feeling stronger and protected.\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60cf"
+    },
+    "name": "Strawberry Cheesecake",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Glitter"],
+    "color": ["Pinks"],
+    "color_description": ["Pink"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d0"
+    },
+    "name": "Elixir Of Immortality ",
+    "brand": "Cameo Colours Lacquers",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Metallic"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-09-06",
+    "description": "ere's a look at [Cameo](https://www.facebook.com/groups/186523148498801/user/1771199027/?__cft__[0]=AZWSMLjGGcig0da26ziWtQry-jqty75wOfuxqHz68j2_5AK44ML6MEDZM581EH2Hz6KlTZFiG43Yh6V6L-uw_1qlB81aKt3ktUFzTJ2ow0Ux3txvw-QXglHJ980dZA6kLoOGSs7JYioQtYeLtcUduJkJ&__tn__=-]K-R)'s contribution to the Magic and Alchemy theme! Elixir of Immortality has a light purple base, filled with violet to purple to indigo to blue shimmers, holographic sparkle, holographic micro flakes, and platinum silver flakes! \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d1"
+    },
+    "name": "Skin Deep",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-January",
+    "type": ["Stamping Polish"],
+    "color": ["Browns"],
+    "color_description": ["Beige"],
+    "purchase_date": "2020-01-01",
+    "description": "_Skin Deep _(B325) is our opaque, neutral nude that complements any birthday suit. This peachy tan features beautiful subtle undertones of pink and brown perfect to highlight your natural beauty. As with all of our [stamping polishes](https://maniology.com/collections/nail-stamping-polishes), _Skin Deep_ is highly pigmented to offer deep, all-over coverage, bold stamping lines, and build-able opacity. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d2"
+    },
+    "name": "Kitsch You Later",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Oranges"],
+    "color_description": ["Dusty ", "Orange"],
+    "purchase_date": "2021-03-12",
+    "description": "Say ‘kitsch you later’ to your to-do list for the weekend. Hit the road, embrace the retro vibes and rock this warm orange creme polish.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d3"
+    },
+    "name": "On The Rocks",
+    "brand": "Color Club",
+    "collection": "Fiesta ",
+    "type": ["Cream", "Metallic"],
+    "color": ["Silvers"],
+    "color_description": ["Silver"],
+    "purchase_date": "2019-08-25",
+    "description": "A sparkling silver metallic creme. Two coats. Pictured in fluorescent light.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d4"
+    },
+    "name": "Rich In Spirit",
+    "brand": "Nicole By Opi",
+    "collection": "",
+    "type": ["Cream", "Metallic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d5"
+    },
+    "name": "Coconut Milk Sorbet",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Cream", "Sheer"],
+    "color": ["Whites"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d6"
+    },
+    "name": "Indio",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-March",
+    "type": ["Stamping Polish"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "2020-03-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d7"
+    },
+    "name": "Tutti-frutti",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Glitter"],
+    "color": ["Pinks"],
+    "color_description": ["Multi-color"],
+    "purchase_date": "2020-01-10",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d8"
+    },
+    "name": "Green Taffy",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Greens"],
+    "color_description": ["Greens"],
+    "purchase_date": "",
+    "description": "The holo is powerful in this vibrant true green polish packed with linear holographic pigment. The only thing Green Taffy is getting stuck to is your nails!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60d9"
+    },
+    "name": "Lexie",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60da"
+    },
+    "name": "Dead Man's Toe",
+    "brand": "Girly Bits",
+    "collection": "Hocus Pocus Fall 2015",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Greens"],
+    "purchase_date": "2019-11-29",
+    "description": " It's a beautiful dusty army green creme with pink to gold shimmer. So pretty!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60db"
+    },
+    "name": "Cotton Candy Cocktail",
+    "brand": "Kathleen And Co. ",
+    "collection": "Polish Pickup 06-2020",
+    "type": ["Cream", "Shimmer"],
+    "color": ["Blues"],
+    "color_description": ["Aqua", "Pink"],
+    "purchase_date": "2020-06-04",
+    "description": "A glowy aqua shimmer in a baby blue base that shifts to pink.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60dc"
+    },
+    "name": "Cold Shoulder",
+    "brand": "Holo Taco",
+    "collection": "Frosted Metals Collection",
+    "type": ["Metallic Foil"],
+    "color": ["Blues"],
+    "color_description": ["Cobalt Blue"],
+    "purchase_date": "2020-12-25",
+    "description": "Just give them the Cold Shoulder! This polish will have your nails breaking the ice with its chilly pale cobalt blue hue and metallic foil finish.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60dd"
+    },
+    "name": "Blue Ain’t Slick",
+    "brand": "Holo Taco",
+    "collection": "Multichrome Or Go Home",
+    "type": ["Multi-chrome"],
+    "color": ["Blues"],
+    "color_description": ["Blues"],
+    "purchase_date": "2020-09-26",
+    "description": " This multichrome shade shifts from an electric metallic blue through indigo, purple, and even hints of gold hues. Leave going undercover to someone else because these nails will surely be noticed.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60de"
+    },
+    "name": "Almond Milk",
+    "brand": "Orly",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Browns"],
+    "color_description": ["Cream"],
+    "purchase_date": "2021-03-28",
+    "description": "You’re going to love this creamy neutral shade a latte. This is an easy, go-to light beige shade for a neutral manicure that acts as a perfect nude for lighter skin tones and a stunning pop on deeper skin tones.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60df"
+    },
+    "name": "Blood Curdling",
+    "brand": "Essie",
+    "collection": "Morticia’s Nails",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": ["Red Wine"],
+    "purchase_date": "2019-08-25",
+    "description": "?\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e0"
+    },
+    "name": "Magic Mirror",
+    "brand": "Wildflower Lacquer",
+    "collection": "Polish Pickup 04-2021",
+    "type": ["Crelly", "Flaked", "Holographic"],
+    "color": ["Pinks"],
+    "color_description": ["Holographic"],
+    "purchase_date": "2021-04-02",
+    "description": "Inspired by Beauty and the Beast Talk and Glow Mirror Toy\nA holographic flakie base with pink to peach shimmer and pink to purple to orange crystal flakes.\n",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e1"
+    },
+    "name": "Yabos",
+    "brand": "Girly Bits",
+    "collection": "Hocus Pocus Fall 2015",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": ["Purple"],
+    "purchase_date": "2019-11-29",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e2"
+    },
+    "name": "Titanium",
+    "brand": "Atomic Polish",
+    "collection": "",
+    "type": ["Crelly"],
+    "color": ["Greys"],
+    "color_description": ["Greens", "Gold"],
+    "purchase_date": "2021-03-08",
+    "description": "Ti (Titanium) is a crelly with a deep grey base and gold flakies dispersed throughout. It is opaque in 2-3 coats depending on application. Use a good base and top coat to get more durability and longevity from your manicure!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e3"
+    },
+    "name": "Breakfast At Tiffany's",
+    "brand": "Sonia Kashuk",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": ["Greens"],
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e4"
+    },
+    "name": "Mint Money",
+    "brand": "Holo Taco",
+    "collection": "Frosted Metals Collection",
+    "type": ["Metallic Foil"],
+    "color": ["Greens"],
+    "color_description": ["Mint Green"],
+    "purchase_date": "2020-12-25",
+    "description": "Mint Money is a unique icy green winter shade in a metallic foil finish.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e5"
+    },
+    "name": "Pink Gerbera Daisies",
+    "brand": "Glisten And Glow",
+    "collection": "Polish Pickup 02-2020",
+    "type": ["Crelly"],
+    "color": ["Pinks"],
+    "color_description": ["Hot Pink"],
+    "purchase_date": "2020-02-07",
+    "description": "More sun, this fresh start feeling and bolder colors  Like with this gorgeous popping neonpink glittercrelly, right?\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e6"
+    },
+    "name": "Orange Drink",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Oranges"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "This vibrant tangerine-orange polish is more packed with linear holographic pigment than 100% orange juice is packed with oranges. An Orange Drink breakfast for your nails is the perfect way to start the day!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e7"
+    },
+    "name": "Scattered Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "Launch Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Holographic"],
+    "color_description": null,
+    "purchase_date": "2019-07-19",
+    "description": "The tiny holographic glitters give any mani a sprinkle of holo — it also works great over nail art without covering up too much of the design!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e8"
+    },
+    "name": "Sweet Strawberry",
+    "brand": "Pixi",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60e9"
+    },
+    "name": "Year Of The Cat",
+    "brand": "By Dany Vianna",
+    "collection": "Polish Pickup January 2020",
+    "type": ["Crelly"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "2020-01-03",
+    "description": "Year of the Cat is described as an orange crelly with a mix of black and white glitters! Formula is SO buttery smooth!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ea"
+    },
+    "name": "Good To Go",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Top Coat", "QDGT"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "QDTC\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60eb"
+    },
+    "name": "Riot!",
+    "brand": "Lottie",
+    "collection": "",
+    "type": ["Cream", "Metallic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ec"
+    },
+    "name": "Merci Boku",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "It’s a bleached copper shimmer\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ed"
+    },
+    "name": "Sage",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ee"
+    },
+    "name": "Lemon Sucker",
+    "brand": "Holo Taco",
+    "collection": "Rainbow Linear Holos",
+    "type": ["Linear holographic"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "No one is sour about how packed with linear holographic pigment this deepened lemon-yellow polish is. Try Lemon Sucker in a gradient with neighbouring shades for an ultimate treat on your nails!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ef"
+    },
+    "name": "Nail Envy Sensitive & Peeling",
+    "brand": "Opi",
+    "collection": "",
+    "type": ["Nail Treatment"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": " \n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f0"
+    },
+    "name": "The Wednesday Witch",
+    "brand": "Dreamland",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Multi-chrome"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2019-09-06",
+    "description": "‘The Wednesday Witch’ a multichrome with shades of aqua, blue, purple, and even pink at extreme angles, touched with a sprinkle of holographic magic.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f1"
+    },
+    "name": "Courtney",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f2"
+    },
+    "name": "Solstice",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Reds"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Solstice by Zoya can be best described as a sparkling persimmon orange metallic.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f3"
+    },
+    "name": "Forehead Kisses",
+    "brand": "Bee's Knees Lacquer",
+    "collection": "Hella Handmade Creation 2021-03",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-12",
+    "description": "Inspo: Inspired by the time Zak made Aaron wear a wig because a ghost cowboy at a location gave a forehead kiss to a woman staying there. \nDescription: a pale lilac with a rose gold shimmer.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f4"
+    },
+    "name": "Totally Buggin",
+    "brand": "Color Club",
+    "collection": "Movie Night Twilight Collection",
+    "type": ["Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-28",
+    "description": "Purple Shifting Sheer\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f5"
+    },
+    "name": "In Bloom",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-28",
+    "description": "There's nothing quite like the first spring blossom. The same can be said for this sweet shade!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f6"
+    },
+    "name": "Geo",
+    "brand": "Julep",
+    "collection": "",
+    "type": ["Topper", "Holographic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f7"
+    },
+    "name": "Wakeup Wisteria",
+    "brand": "Pixi",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f8"
+    },
+    "name": "Magically Delicious",
+    "brand": "Cuticula",
+    "collection": "Polish Pickup 05-2020",
+    "type": ["Crelly", "Flaked"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2020-05-01",
+    "description": "Described as a soft purple crelly with gold, royal blue, fuchsia, and green metallic flakes, orange, bright pink, violet, and baby blue holographic micro flakes, and micro gold metallic flakes. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60f9"
+    },
+    "name": "Foundation/Primer",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Base Coat", "Gel"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60fa"
+    },
+    "name": "Chinchilly",
+    "brand": "Essie",
+    "collection": "Cuddle With Color",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "a sleek granite gray polish that positively radiates urban chic and subtle sophistication. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60fb"
+    },
+    "name": "Darker Than my Heart",
+    "brand": "Color Club",
+    "collection": "Movie Night Twilight Collection",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": null,
+    "purchase_date": "2021-03-28",
+    "description": "Grab your BFF and get the popcorn ready because we're paying homage to your favorite flicks with a multi-series Movie Night collection!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60fc"
+    },
+    "name": "Pewter",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-December",
+    "type": ["Stamping Polish"],
+    "color": ["Greys"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60fd"
+    },
+    "name": "Mindfreak",
+    "brand": "Fair Maiden Polish",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Jelly", "Flaked"],
+    "color": ["Oranges"],
+    "color_description": null,
+    "purchase_date": "2019-09-06",
+    "description": "\"Mindfreak\" is a deeply pigmented orange jelly polish packed with red to gold shifting flake and holo sparkle throughout.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60fe"
+    },
+    "name": "Sansa",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Metallic"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Sansa by Zoya can be best described as a deep eggplant with a gold metallic sparkle, in the flawless full-coverage, liquid metal formula.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c60ff"
+    },
+    "name": "Bubble Gum Pink",
+    "brand": "E.l.f.",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Create a flawless manicure that reflects your personal style with our Nail Polish. This color-lock formula with chip resistant shield gives long lasting color with high shine. The bristle design glides color on flawlessly, and quick dry formula gives perfect application every time. Key nutrients infused with Vitamin E for stronger, healthier nails.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6100"
+    },
+    "name": "Somersault",
+    "brand": "Circus By Andreas Choice",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "This polish shade is called Somersault, a warm creamy buttercup yellow shade that greatly contrasts the tan of my skin, so it is definitely one that particularly stands out on my nail\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6101"
+    },
+    "name": "Not Milky White",
+    "brand": "Holo Taco",
+    "collection": "Unicorn Skin",
+    "type": ["Cream"],
+    "color": ["Whites"],
+    "color_description": null,
+    "purchase_date": "2020-03-15",
+    "description": "We got your nails covered with this creamy opaque polish that is most definitely Not Milky White. Perfect for French tip manicures, nail art, or simply painting your nails straight-up white.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6102"
+    },
+    "name": "Purple With Envy",
+    "brand": "Holo Taco",
+    "collection": "Multichrome Or Go Home",
+    "type": ["Multi-chrome"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2020-09-26",
+    "description": "This multichrome polish starts as a royal purple and transforms through shades of indigo, blue and magenta, reaching as far as gold. Haters will say it’s photoshop!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6103"
+    },
+    "name": "iMac G3",
+    "brand": "Paradox Polish",
+    "collection": "Polish Pickup 04-2021",
+    "type": ["Crelly"],
+    "color": ["Whites"],
+    "color_description": null,
+    "purchase_date": "2021-04-02",
+    "description": "Inspired by the first iMac\nGlow in the dark!! a slightly sheer white crelly with holo glitters if orange, blue, pink, purple, and green.\n",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6104"
+    },
+    "name": "Seal + Shine Top Coat",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Top Coat", "Gel"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6105"
+    },
+    "name": "Purrmaid",
+    "brand": "Scofflaw",
+    "collection": "Polish Pickup 04-2020",
+    "type": ["Crelly"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2020-04-03",
+    "description": " “Purrmaid” isn’t just a portmanteau of cat and mermaid — it’s also Scofflaw’s April polish! It features a happy, playful aqua crelly base, with sea blue sparkles and white flecks, and full of bubble-shaped matte glitters in various shades of blue and white. \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6106"
+    },
+    "name": "Peely Base",
+    "brand": "Holo Taco",
+    "collection": "",
+    "type": ["Base Coat", "Peely"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-10-25",
+    "description": "Want to frequently change your mani or remove your nail polish easily without nail polish remover? It’s not a problem anymore with Peely Base! Apply 1 thin layer of this base coat under your manicure and you can peel it right off.\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6107"
+    },
+    "name": "Lithium",
+    "brand": "Atomic Polish",
+    "collection": "",
+    "type": ["Crelly"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Lithium (Li) is a neon hot pink crelly nail polish. This nail polish has a hot pink creme base with various metallic gold flakies dispersed throughout. It is opaque in 2-3 coats depending on application. Use a good base and top coat to get more durability and longevity from your manicure!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6108"
+    },
+    "name": "Limitless",
+    "brand": "Cuticula",
+    "collection": "Polish Pickup December 2019",
+    "type": ["Top Coat", "QDGT"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-12-02",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6109"
+    },
+    "name": "Angel Killers",
+    "brand": "Treo Lacquer",
+    "collection": "Polish Pickup 04-2021",
+    "type": ["Crelly", "Glitter"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2021-04-02",
+    "description": "Angel Killers is a bright neon green crelly inspired by Neon Genesis Evangelion!\nIt is filled with magenta and purple glitter and gold bars - totally radical.\n",
+    "swatched": "No"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610a"
+    },
+    "name": "Greyed And Confused",
+    "brand": "Girly Bits",
+    "collection": "Fall 2017 Part Two",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": null,
+    "purchase_date": "2019-11-29",
+    "description": "Greyzed and Confused is a medium grey creme, with green undertones. It is opaque in one smooth coat! It also stamps beautifully, and watermarbles.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610b"
+    },
+    "name": "Razors Glass And Poison",
+    "brand": "Starlight Polish",
+    "collection": "Polish Pickup 10-2019",
+    "type": ["Jelly", "Flaked"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2020-10-04",
+    "description": "Starlight Polish Razors, Glass, and Poison is a mix of large metallic silver flakes (made with sterling silver), large translucent white glass flecks, and poison green shimmer, all in a candy-and-acid green tinted base.  \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610c"
+    },
+    "name": "Ana",
+    "brand": "Zoya",
+    "collection": "Naturel Satins",
+    "type": ["Cream", "Satin"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610d"
+    },
+    "name": "Evvie",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Evvie by Zoya can be best described as a dark smoky grey cream with strong teal green undertones. A custom-mixed runway shade created for designer Peter Som.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610e"
+    },
+    "name": "Bordeaux",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Reds"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "**deep red wine nail polish uncorks a positively intoxicating manicure. everybody's under the influence of this vintage beauty bottled at chateau gorgeous.**\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c610f"
+    },
+    "name": "No Chips Ahead",
+    "brand": "Essie",
+    "collection": "",
+    "type": ["Top Coat", "Chip Resistant"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Essie® no chips ahead®  is a chip- and peel- resisting top coat. The high-gloss color shield protects against fading, resists chips and peeling.\n\n",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6110"
+    },
+    "name": "Latte",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-April ",
+    "type": ["Stamping Polish"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6111"
+    },
+    "name": "Gold Rush",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-March",
+    "type": ["Stamping Polish"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "2020-03-01",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6112"
+    },
+    "name": "Fairy Frost Cloud Cover",
+    "brand": "Cuticula",
+    "collection": "Polish Pickup December 2019",
+    "type": ["Topper", "Iridescent ", "Matte"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-12-02",
+    "description": "Cuticula is also offering Fairy Frost Cloud Cover matte top coat. It is a gorgeous matte top coat with a mesmerizing blend of micro rainbow pearl flakes, rainbow crystal chameleon flakes and bright violet sparks. Fairy Frost will be in the Cloud Cover 2.0 version. This version dries faster in an even more intense chalkboard finish \n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6113"
+    },
+    "name": "Jewel Of Janelle",
+    "brand": "Lbk Nail",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Whites"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6114"
+    },
+    "name": "Jazzercise",
+    "brand": "Maniology",
+    "collection": "Mani X Me 2019-June ",
+    "type": ["Stamping Polish"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6115"
+    },
+    "name": "Power Clutch",
+    "brand": "Essie",
+    "collection": "Fall",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "this striking deep grey-green nail lacquer is an entrance-making beauty that keeps the focus on you. this bag is all you need, you just grab it and go.\n\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6116"
+    },
+    "name": "Valerie",
+    "brand": "Julep",
+    "collection": "Bombshell",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6117"
+    },
+    "name": "Aria",
+    "brand": "ILNP",
+    "collection": "Ultra Holos",
+    "type": ["Linear holographic"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "Aria is a gorgeously understated sky-blue Ultra Holo nail polish that is almost certain to be a new favorite!\nThe beautifully soft blue shade of Aria provides the perfect foundation for its absolutely incredible linear holographic sparkle. The linear Ultra Holo blend in Aria is jaw-droppingly vibrant in the sunlight. This is not an overstatement or marketing technique either, Aria is genuinely one of the most incredibly vivid linear holographic nail polishes we’ve ever produced! Do not miss out on this shade!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6118"
+    },
+    "name": "Ms. Frizzle Fo Shizzle",
+    "brand": "Indie Lacquer",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2019-09-06",
+    "description": "This is a baby blue crelly base with  neon pink, yellow, orange, blue and red matte glitters in dots, hexes, squares and triangles!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6119"
+    },
+    "name": "Rue",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Rue by Zoya can be best described as full-coverage, boudoir blush cream. Pair with any of the other Naturel Collection shades for a chic tone-on-tone look!\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611a"
+    },
+    "name": "Missed-shift",
+    "brand": "Holo Taco",
+    "collection": "Multichrome Or Go Home",
+    "type": ["Multi-chrome"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2020-09-26",
+    "description": " Missed-Shift is a multichrome polish that begins as a vibrant cool green and whips through shades of teal before striking purple at the right angle. Be careful not to pop the clutch with the coolest nails in the garage.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611b"
+    },
+    "name": "Wintergreen",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Cream", "Holographic"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611c"
+    },
+    "name": "Sugarplum",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2019-November ",
+    "type": ["Stamping Polish"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611d"
+    },
+    "name": "Toil And Trouble",
+    "brand": "Grace-full",
+    "collection": "Polish Pickup 09-2019",
+    "type": ["Jelly", "Iridescent "],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2019-09-06",
+    "description": " This is our new September PPU polish, I’ve kept the name Toil and Trouble and we now have a gorgeous super shifty pink purple base that shifts to reddy pink and has an amazing blue flash from the aurora shimmer. It has UCC flakies in pink, purple and blue and silver holo micro glitter for sparkle.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611e"
+    },
+    "name": "Blu",
+    "brand": "Zoya",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Blues"],
+    "color_description": null,
+    "purchase_date": "2021-03-08",
+    "description": "Blu by Zoya can be best described as a full-coverage, soft and delicate pale baby blue with a glossy creme finish. A dreamy, calming blue that's both fun and flattering on the nails.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c611f"
+    },
+    "name": "Cheap Champagne",
+    "brand": "Holo Taco",
+    "collection": "Frosted Metals Collection",
+    "type": ["Metallic Foil"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2020-12-25",
+    "description": " A frosty rose gold with a radiant shine, Cheap Champagne is a metallic foil polish that makes your nails look expensive.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6120"
+    },
+    "name": "El05 - Peely base",
+    "brand": "Unt",
+    "collection": "",
+    "type": ["Base Coat", "Peely"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6121"
+    },
+    "name": "Green 874",
+    "brand": "KB Shimmers",
+    "collection": "January Misfits",
+    "type": ["Crelly"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2021-02-24",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6122"
+    },
+    "name": "Purple Pleaser",
+    "brand": "E.l.f.",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Create a flawless manicure that reflects your personal style with our Nail Polish. This color-lock formula with chip resistant shield gives long lasting color with high shine. The bristle design glides color on flawlessly, and quick dry formula gives perfect application every time. Key nutrients infused with Vitamin E for stronger, healthier nails.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6123"
+    },
+    "name": "Roses In Fairyland",
+    "brand": "Moo Moos Signatures",
+    "collection": "",
+    "type": ["Cream", "Pearlessence"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2019-11-29",
+    "description": "Roses in Fairyland from the Shimmer Paradise collection is a bold rose pink nail polish with a beautiful teal-turquoise shimmer.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6124"
+    },
+    "name": "Can you dig it? ",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Purples"],
+    "color_description": null,
+    "purchase_date": "2021-03-28",
+    "description": "Forget the weatherman, we’re predicting intense color with a vibrant finish in your forecast. Each bold shade features a creamy full-coverage formula to outlast any storm. You’re already a force of nature, so don’t let anyone rain on your parade! \t\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6125"
+    },
+    "name": "Need A Vacation",
+    "brand": "Essie",
+    "collection": "Spring 2006 Collection ",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "this bubble gum pink nail color and make a dash for the airport\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6126"
+    },
+    "name": "After The Rose",
+    "brand": "Defy & Inspire",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6127"
+    },
+    "name": "Absolutely Shore",
+    "brand": "Essie",
+    "collection": "Summer 2011 - Brazilliant",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Very light, pale sea foam green crème nail color with subtle grey undertones.\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6128"
+    },
+    "name": "Bubble Gum",
+    "brand": "Sally Hansen Insta-dri",
+    "collection": "Jelly Belly ",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6129"
+    },
+    "name": "One Step Gel-no Wipe Topcoat",
+    "brand": "One Dor",
+    "collection": "1 Step Gel",
+    "type": ["Top Coat", "Gel"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612a"
+    },
+    "name": "Limitless - Dole Whip Float",
+    "brand": "Cuticula",
+    "collection": "",
+    "type": ["Top Coat", "QDGT"],
+    "color": ["Clear"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "N/A"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612b"
+    },
+    "name": "Let The Good Times Roll",
+    "brand": "Orly",
+    "collection": "Day Tripping",
+    "type": ["Cream"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2021-03-12",
+    "description": "Brush your rock & roll hair and let the good times roll with this teal grey creme polish perfect for any occasion.\n\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612c"
+    },
+    "name": "Viva Antigua!",
+    "brand": "Essie",
+    "collection": "Viva Antigua",
+    "type": ["Cream", "Shimmer"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "2019-08-25",
+    "description": "Essie Viva Antigua! is summer for your nails, and who doesn’t want that? It’s cheerful and subtly sparkly with a punch of personality! If you love turquoise nail polish, this is a fun one to wear. Plus the formula won’t have you bending over backwards like a Cirque du Soleil performer!\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612d"
+    },
+    "name": "Humble Riley",
+    "brand": "Lbk Nail",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Greys"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612e"
+    },
+    "name": "Wicker Park",
+    "brand": "Color Club",
+    "collection": "",
+    "type": ["Cream"],
+    "color": ["Pinks"],
+    "color_description": null,
+    "purchase_date": "2021-03-28",
+    "description": "Sometimes two colors are blended so seamlessly together that you're not quite sure what to call it. This is a perfect example of that. Pink or purple? \n\t\n",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c612f"
+    },
+    "name": "Greenhouse",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-February ",
+    "type": ["Stamping Polish"],
+    "color": ["Greens"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6130"
+    },
+    "name": "Boba",
+    "brand": "Maniology",
+    "collection": "Mani x Me 2020-April ",
+    "type": ["Stamping Polish"],
+    "color": ["Browns"],
+    "color_description": null,
+    "purchase_date": "",
+    "description": "",
+    "swatched": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "609714fb5b450240ac9c6131"
+    },
+    "name": "Gold Flakie Holo Taco",
+    "brand": "Holo Taco",
+    "collection": "1st Anniversary Collection",
+    "type": ["Topper", "Holographic"],
+    "color": ["Yellows"],
+    "color_description": null,
+    "purchase_date": "2020-07-18",
+    "description": "",
+    "swatched": "Yes"
+  }
+]
